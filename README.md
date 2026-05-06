@@ -16,7 +16,7 @@ public class YuvrajSuri {
     String name        = "Yuvraj Suri";
     String role        = "Full Stack Engineer @ KocharTech";
     String experience  = "2 Years of Production Experience";
-    String location    = "Ludhiana, Punjab, India 🇮🇳";
+    String location    = "Amritsar, Punjab, India 🇮🇳";
 
     String[] currentlyWorkingOn = {
         "Scalable REST APIs with Java 21 & Spring Boot",
