@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
 ```java
 public class YuvrajSuri {
